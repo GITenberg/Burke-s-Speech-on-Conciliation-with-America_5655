@@ -1,0 +1,31 @@
+_repo: Burke-s-Speech-on-Conciliation-with-America_5655
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burke, Edmund
+    birthdate: 1729
+    deathdate: 1797
+    gutenberg_agent_id: '842'
+    url: http://www.gutenberg.org/2009/agents/842
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Burke
+  editor:
+    agent_name: Newsom, Sidney Carleton
+    birthdate: 1863
+    gutenberg_agent_id: '34408'
+    url: http://www.gutenberg.org/2009/agents/34408
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E201'
+- !lcsh 'Great Britain -- Colonies -- America -- Early works to 1800'
+- !lcsh 'United States -- Politics and government -- 1775-1783'
+- GITenberg
+title: Burke's Speech on Conciliation with America
+url: http://www.gutenberg.org/ebooks/5655
